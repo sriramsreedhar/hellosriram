@@ -2,7 +2,7 @@ import setuptools
 with open("README.rst", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     name='sysreports',  
+     name='hellosriram',  
      version='1.0',
      scripts=['hellosriram'] ,
      author="Sriram Sreedhar",
@@ -18,3 +18,4 @@ setuptools.setup(
          "Operating System :: OS Independent",
      ],
  )
+
