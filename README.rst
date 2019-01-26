@@ -1,7 +1,7 @@
 Hello Sriram
 ------------
 
-* GitHub: https://github.com/sriramsreedhar/systemreports
+* GitHub: https://github.com/sriramsreedhar/hellosriram.git
 * PyPI: https://pypi.org/project/hellosriram
 * Free and open source software: `MIT License`
 
